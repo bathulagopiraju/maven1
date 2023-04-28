@@ -1,0 +1,20 @@
+<intelliqit>
+  <trainers>
+     <devops>sai</devops>
+     <aws>venu</aws>
+  </trainers>
+  <coordinaters>
+    <devops>sania</devops>
+    <aws>shaheda</aws>
+  </coordinaters>
+</intelliqit>
+
+---
+intelliqit:
+  trainers:
+    devops: sai
+    aws: venu
+  coordinaters:
+    devops: sania
+    aws: shaheda
+...
